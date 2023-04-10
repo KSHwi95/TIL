@@ -94,5 +94,3 @@ python manage.py makemigration
 # 변경사항 적용 (유사 commit)
 python manage.py migrate
 ```
-
-백오피스
